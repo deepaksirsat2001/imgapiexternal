@@ -55,4 +55,4 @@ jobs:
           app-name: 'imgapiautoscale'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C2151EA1CF9843F8AB6B86EE0F6D6028 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F8BEE11933284CB3BD2AFE5CED98C244 }}
